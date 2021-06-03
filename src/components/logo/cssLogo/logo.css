@@ -1,0 +1,23 @@
+.zocalo-superior {
+  text-align: center;
+  height: 30px;
+  color: white;
+  font-weight: 500;
+  font-size: smaller;
+  background-color: black;
+}
+
+.zocalo-superior div {
+  padding-top: 6px;
+}
+
+.contenedor-logo {
+  text-align: center;
+  background-color: #f6de00
+}
+.contenedor-logo img {
+  margin-right: 0;
+  height: 152px;
+  width: 512px;
+  text-align: center;
+}
